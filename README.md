@@ -51,9 +51,6 @@ The following charts and dashboards were created using Tableau:
 - Average unemployment rates
 - Holiday vs Non-Holiday
 - Weekly sales by store
- 
-# Dashboard Preview
-![Unemployment] (images/AVG unemployment.png)
 
 # Skills Demonstrated 
 - Data cleaning using SQL
