@@ -51,16 +51,16 @@ The dataset was cleaned in SQL by:
 - Holiday weeks have a Higher average sales compared to non-holiday weeks.
 - This indicates that customers tend to send more money during the holidays compared to non-holidays.
 
-# Unemployment Differences Among Stores
+### Unemployment Differences Among Stores
 - Store 12 has the highest unemployment rate, with the average being (13.116), while Store 23 has the lowest unemployment rate, with the average being (4.796).
 
-# Correlation between CPI and weekly sales
+### Correlation between CPI and weekly sales
 - The correlation between CPI and weekly_sales is (-0.0726). which is also a very weak negative relationship. This confirms that CPI does not significantly impact sales.
 
-# Correlation between Non-holidays and Holidays
-- The correlation between holidays and non-holidays is (-0.0719), which is also a very weak negative relationship. This confirms that CPI does not affect weekly sales, whether it's a holiday or a non-holiday.
+### Correlation between Non-holidays and Holidays
+- The correlation between holidays and non-holidays is (-0.0719), which is also a very weak negative relationship. This confirms that CPI does not affect weekly sales, whether on holidays or non-holidays.
 
-# Why is fuel price included in the dataset?
+### Why is fuel price included in the dataset?
 - Fuel prices are included in the dataset because they may influence customer spending behavior and transportation costs. Higher fuel prices can reduce customer visits to the store, hence leading to fewer sales. However, the analysis indicates that fuel prices have a weak relationship with weekly sales.
 
 # Tableau Dashboard
