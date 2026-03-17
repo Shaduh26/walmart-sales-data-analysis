@@ -53,7 +53,7 @@ The following charts and dashboards were created using Tableau:
 - Weekly sales by store
  
 # Dashboard Preview
-![Walmart Dashboard] (images/dashboard.png)
+![Unemployment] (images/AVG unemployment.png)
 
 # Skills Demonstrated 
 - Data cleaning using SQL
