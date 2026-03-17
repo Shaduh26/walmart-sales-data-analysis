@@ -41,7 +41,7 @@ The dataset was cleaned in SQL by:
 - Unemployment rates differ across stores.
 
 # Tableau Dashboard
-[Tableau Dashboard link] (https://public.tableau.com/app/profile/shaduh.nakijoba/vizzes)
+[Tableau Dashboard] (https://public.tableau.com/app/profile/shaduh.nakijoba/vizzes)
 
 # Visualization
 The following charts and dashboards were created using Tableau:
@@ -84,4 +84,8 @@ The following charts and dashboards were created using Tableau:
 <p align="center">
 <img src="images/AVG unemployment.png" width="600">
 </p>
-  
+
+  # Project Layout
+images/ – Tableau charts and dashboard screenshots  
+sql/ – SQL scripts for data cleaning and analysis  
+README.md – Project documentation
