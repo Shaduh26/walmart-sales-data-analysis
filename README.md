@@ -39,8 +39,6 @@ The dataset was cleaned in SQL by:
 - Rounding numeric columns such as weekly sales, Temperature,  fuel price, unemployment, and CPI.
 - checking for missing  values
 
-
-  
 # Key findings
 - Holiday weeks show higher average weekly sales than non-holiday weeks.
 - Store performance varies  across store locations.
@@ -49,9 +47,10 @@ The dataset was cleaned in SQL by:
 - Unemployment rates differ across stores.
 
 # Analysis Insights
-# Holiday Impact on Sales
+### Holiday Impact on Sales
 - Holiday weeks have a Higher average sales compared to non-holiday weeks.
 - This indicates that customers tend to send more money during the holidays compared to non-holidays.
+
 # Unemployment Differences Among Stores
 - Store 12 has the highest unemployment rate, with the average being (13.116), while Store 23 has the lowest unemployment rate, with the average being (4.796).
 
@@ -59,7 +58,7 @@ The dataset was cleaned in SQL by:
 - The correlation between CPI and weekly_sales is (-0.0726). which is also a very weak negative relationship. This confirms that CPI does not significantly impact sales.
 
 # Correlation between Non-holidays and Holidays
-- The correlation between holidays and non-holidays is (-0.0719), which is also a very weak negative relationship. This confirms that CPI does not affect weekly sales regardless of whether it's a holiday or a non-holiday.
+- The correlation between holidays and non-holidays is (-0.0719), which is also a very weak negative relationship. This confirms that CPI does not affect weekly sales, whether it's a holiday or a non-holiday.
 
 # Why is fuel price included in the dataset?
 - Fuel prices are included in the dataset because they may influence customer spending behavior and transportation costs. Higher fuel prices can reduce customer visits to the store, hence leading to fewer sales. However, the analysis indicates that fuel prices have a weak relationship with weekly sales.
