@@ -7,6 +7,16 @@ fuel price relationships, and unemployment differences across locations.
 - SQL (Data cleaning and Analysis)
 - Tableau (Data Visualization)
 - GitHub
+# Dataset 
+- The dataset includes the following variables
+- Store ID
+- Weekly sales
+- Holiday Flag
+- Temperature
+- Fuel price
+- CPI
+- Unemployment
+- Date
 # Data Cleaning 
 The dataset was cleaned in SQL by:
 - sorting data by store and date
@@ -40,7 +50,11 @@ The following charts and dashboards were created using Tableau:
 - Fuel Vs weekly sales
 - Average unemployment rates
 - Holiday vs Non-Holiday
-- Weekly sales
+- Weekly sales by store
+ 
+# Dashboard Preview
+![Walmart Dashboard] (images/dashboard.png)
+
 # Skills Demonstrated 
 - Data cleaning using SQL
 - Business Analysis
