@@ -60,18 +60,18 @@ The following charts and dashboards were created using Tableau:
 
 ## Visualization
 
-### Walmart Dashboard
-![Walmart Dashboard](images/Walmart Dashboard.png)
+# Walmart Dashboard
+![Walmart Dashboard](images/Walmart%20Dashboard.png)
 
-### Fuel vs Weekly Sales
-![Fuel vs Weekly Sales](images/Fuel Vs weekly sales.png)
+# Fuel vs Weekly Sales
+![Fuel vs Weekly Sales](images/Fuel%20Vs%20weekly%20sales.png)
 
-### Holiday vs Non-Holiday Sales
-![Holiday vs Non-Holiday](images/holiday VS Non holiday.png)
+# Holiday vs Non-Holiday Sales
+![Holiday vs Non-Holiday](images/holiday%20VS%20Non%20holiday.png)
 
-### Weekly Sales Trend
-![Weekly Sales](images/weekly sales.png)
+# Weekly Sales Trend
+![Weekly Sales](images/weekly%20sales.png)
 
 ### Average Unemployment Rate
-![Average Unemployment](images/AVG unemployment.png)
+![Average Unemployment](images/AVG%20unemployment.png)
   
